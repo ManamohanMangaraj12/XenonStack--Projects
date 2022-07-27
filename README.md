@@ -9,7 +9,7 @@ A simple _login-logout_ template built with:
 *   [`MySQL`](https://www.mysql.com/)
 *   [`jquery`](https://jquery.com/)
 
-<center><img src="img/signin.png" width="80%"></center>
+<center></center>
 
 ### Notes
 
