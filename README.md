@@ -12,9 +12,8 @@ A simple _login-logout_ template built with:
 
 ![WhatsApp Image 2022-07-28 at 1 24 53 AM (1)](https://user-images.githubusercontent.com/105049588/181361430-dd43723b-1f46-44de-81b0-470eae1aa9e0.jpeg)
 
-<div>
+
 ![Screenshot 2022-07-28 013400](https://user-images.githubusercontent.com/105049588/181362768-befa53eb-9657-4355-8c03-dc9f1e7a42e4.jpg)
-<div/>
 ### Notes
 
 *   This is just a simple login-logout template that **has not** been fully security-tested and it has just been used for a university project of mine.
