@@ -10,7 +10,7 @@ A simple _login-logout_ template built with:
 *   [`MySQL`](https://www.mysql.com/)
 *   [`jquery`](https://jquery.com/)
 
-<center>![WhatsApp Image 2022-07-28 at 1 24 53 AM (1)](https://user-images.githubusercontent.com/105049588/181361430-dd43723b-1f46-44de-81b0-470eae1aa9e0.jpeg)</center>
+![WhatsApp Image 2022-07-28 at 1 24 53 AM (1)](https://user-images.githubusercontent.com/105049588/181361430-dd43723b-1f46-44de-81b0-470eae1aa9e0.jpeg)
 
 ### Notes
 
